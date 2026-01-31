@@ -1,20 +1,20 @@
 <div align="center">
-  <a href="https://github.com/bagheri-dev">
+  <a href="https://github.com/SHIMANLOO">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
   </a>
-  <h1 align="center">Hi there, I'm Mahdi Bagheri</h1>
+  <h1 align="center">Hi there, I'm Iman Hassan Abadi </h1>
   <p align="center">
-    A creative Frontend Developer passionate about building beautiful and functional web applications.
+    A frontend developer who enjoys creating clean, practical, and user-friendly web experiences.
   </p>
   
   <div align="center">
-    <a href="https://www.linkedin.com/in/mahdi-bagheri-dev/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/bagheri-dev" target="_blank">
+    <a href="https://t.me/SHIMANLOO" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+    <a href="https://github.com/SHIMANLOO" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="mailto:bagheri.develop@gmail.com" target="_blank">
+    <a href="mailto:iman.hassanabadiii@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </div>
@@ -31,25 +31,25 @@
 
 ### 🚀 About Me
 
-I am a detail-oriented Frontend Developer with a strong foundation in modern web technologies. I specialize in turning complex problems into elegant, user-centric solutions. My experience lies in building responsive, high-performance websites using React, Next.js, and TypeScript. I'm a lifelong learner, always eager to explore new technologies and improve my craft.
+I am a junior programmer focused on building and improving my skills in web development. I have a good and practical understanding of core web technologies and enjoy creating clean, functional, and well-structured websites. I’m continuously learning and gaining experience through hands-on practice and real projects.
 
-- 👨‍💻 Currently working on a **fintech dashboard** to visualize financial data.
+- 👨‍💻 Working with **HTML, CSS, JavaScript, WordPress** in practical scenarios and personal projects.
 - 💬 Let's talk about **clean code, performance optimization, and UI/UX design**.
 
 ---
 
 ### 🛠️ My Tech Arsenal
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" /><br>
       <sub><b>Core Frontend</b></sub>
-    </td>
+    <!-- </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tailwind,vite,redux" /><br>
       <sub><b>Styling & State</b></sub>
-    </td>
+    </td> -->
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /><br>
       <sub><b>Tools & Platforms</b></sub>
@@ -63,11 +63,11 @@ I am a detail-oriented Frontend Developer with a strong foundation in modern web
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagheri-dev&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Mahdi's GitHub Stats" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagheri-dev&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=SHIMANLOO&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="shimanloo's GitHub Stats" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIMANLOO&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%"/>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagheri-dev&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIMANLOO&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
   </p>
 </div>
 
@@ -86,6 +86,6 @@ I am a detail-oriented Frontend Developer with a strong foundation in modern web
 ### ✨ Quote
 
 <p align="center">
-  "Strive not to be a success, but rather to be of value."
-— Albert Einstein
+  "Code is like humor. When you have to explain it, it’s bad."
+— Cory House
 </p>
