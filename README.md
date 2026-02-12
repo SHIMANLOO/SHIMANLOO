@@ -28,14 +28,37 @@
 </div>
 
 
-
-### 🚀 About Me
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> About Me </div> 
 
 I am a junior programmer focused on building and improving my skills in web development. I have a good and practical understanding of core web technologies and enjoy creating clean, functional, and well-structured websites. I’m continuously learning and gaining experience through hands-on practice and real projects.
 
-- 👨‍💻 Working with **HTML, CSS, JavaScript, WordPress** in practical scenarios and personal projects.
-- 💬 Let's talk about **clean code, performance optimization, and UI/UX design**.
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+</div>
 
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Tehran, Iran</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://shimantech.ir/" target="_blank"><strong>Portfolio</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="iman.hassanabadiii@gmail.com"><strong>iman.hassanabadiii@gmail.com</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>real-time data apps for international sports</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Trabajando con <strong> HTML, CSS, JavaScript, WordPress </strong> en proyectos personales.
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Let's talk about clean code, performance optimization, and <strong> UI/UX </strong> design.
+  </li>
+</ul>
+
+
+...
 ---
 
 ### 🛠️ My Tech Arsenal
@@ -80,7 +103,7 @@ I am a junior programmer focused on building and improving my skills in web deve
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </p>
 
 ### ✨ Quote
