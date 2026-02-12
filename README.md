@@ -58,7 +58,7 @@ I am a junior programmer focused on building and improving my skills in web deve
 </ul>
 
 
-...
+... <br> ...
 ---
 
 ### 🛠️ My Tech Arsenal
