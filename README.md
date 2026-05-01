@@ -96,15 +96,17 @@ I am a junior programmer focused on building and improving my skills in web deve
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bagheri-dev&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies"/>
 </div>
 
+-->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
-</p>
+</p> 
 
 ### ✨ Quote
 
